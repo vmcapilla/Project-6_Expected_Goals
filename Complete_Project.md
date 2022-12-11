@@ -72,7 +72,7 @@ ORDER BY
 LIMIT
   5
 ```
-#Output Top 10 xG Created
+#Output Top 5 xG Created
 ```
 Team	xG_Tot_Created
 be	13.4
@@ -81,7 +81,7 @@ gb	11.2
 hr	11.1
 fr	9.2
 ```
-#Output Top 10 xG Conceded
+#Output Top 5 xG Conceded
 ```
 Team	xG_Tot_Created	xG_Tot_Conceded
 be	8.7
